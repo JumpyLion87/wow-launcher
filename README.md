@@ -1,4 +1,4 @@
-![Screenshot](image.png)
+![Screenshot](screenshots/image.png)
 
 # WoW Launcher
 

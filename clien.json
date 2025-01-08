@@ -1,0 +1,180 @@
+{
+    "files": {
+        "Data/ruRU/Interface/Cinematics/Logo_1024.avi": {
+            "size": 6518380,
+            "hash": "8ca8b2ef476be8d69a678ac34f75498f3c5cc02b5f618d467b9c78e6edae815e"
+        },
+        "Data/ruRU/Interface/Cinematics/Logo_800.avi": {
+            "size": 4967302,
+            "hash": "9f3c345a99073f7f06adb1b9bf37c2ffc7e37773d07a4cc72a0cd163db07b765"
+        },
+        "Data/ruRU/Interface/Cinematics/WOW_FotLK_1024.avi": {
+            "size": 66007136,
+            "hash": "1afe738ad4ad1203f357eb15b1a15926e54ffbd3ad9b7b5ca9fac73dad058292"
+        },
+        "Data/ruRU/Interface/Cinematics/WOW_FotLK_800.avi": {
+            "size": 57244820,
+            "hash": "52cb90f10863c909d613f84c99f0d2da5139793c2998f2b2905c49395b489821"
+        },
+        "Data/ruRU/Interface/Cinematics/WOW_Intro_1024.avi": {
+            "size": 48319392,
+            "hash": "697fad32b005def2bb6908fb3a77f43be134d661fd03ffa29d2c6739ec5cd7b7"
+        },
+        "Data/ruRU/Interface/Cinematics/WOW_Intro_800.avi": {
+            "size": 41883066,
+            "hash": "0d62fcd314daf93add75510f644e04a4192effcd323db0c791df01609bf3e77b"
+        },
+        "Data/ruRU/Interface/Cinematics/WOW_Intro_BC_1024.avi": {
+            "size": 47575820,
+            "hash": "0277fba0da2a8d0ea61121996390ab3d718729c7802c31b9d0f9447233b0dda0"
+        },
+        "Data/ruRU/Interface/Cinematics/WOW_Intro_BC_800.avi": {
+            "size": 41261394,
+            "hash": "ed5511a783734bf214cc084fde253b530b868336f774b61ec090c8891627b880"
+        },
+        "Data/ruRU/Interface/Cinematics/WOW_Intro_LK_1024.avi": {
+            "size": 56177056,
+            "hash": "be3dc55b635da30ffddc84898a241b1551f1e32b1a6a0c97768afdc4a078a51d"
+        },
+	"Data/ruRU/Interface/Cinematics/WOW_Intro_LK_800.avi": {
+	    "size": 48820376,
+	    "hash": "fcd5e4576be7e7d2e97a436f13e37734e72adfa3457d1fbbcc9e6173aea7f7e5" 
+	},
+        "Data/ruRU/Interface/Cinematics/WOW_Wrathgate_1024.avi": {
+            "size": 75685834,
+            "hash": "4b40199be93942548f77fb3cfeaf001738bccee0211940c8ed4ff6f0fb068897"
+        },
+        "Data/ruRU/Interface/Cinematics/WOW_Wrathgate_800.avi": {
+            "size": 65683896,
+            "hash": "acececbffff5e1b2e23f16259fe662df3a02823d4890d3ac3a4d96b3a401c729"
+        },
+        "Data/ruRU/backup-ruRU.MPQ": {
+            "size": 158243976,
+            "hash": "b2acbf9da5adb20926b42194fcc026bdfcf0a5074d5e058fa24c6da57593a8f0"
+        },
+        "Data/ruRU/base-ruRU.MPQ": {
+            "size": 22975058,
+            "hash": "f361e6706aab57cce50e8a7ba8a08f312ba3c328a5219cd6f72db1894d4c1148"
+        },
+        "Data/ruRU/eula.html": {
+            "size": 36274,
+            "hash": "e784b78eb85d4231dec97870e6cfd585d0b2563b1af350ba34ab75545b478b3f"
+        },
+        "Data/ruRU/expansion-locale-ruRU.MPQ": {
+            "size": 16919739,
+            "hash": "4a565f808c1c4b413dcc1bbfa9980ca700500f220506704ecbb4734883d6ee8d"
+        },
+        "Data/ruRU/expansion-speech-ruRU.MPQ": {
+            "size": 269445963,
+            "hash": "69a5057a064fc22efa008acc03faf78fa1abc8b7f2320367e53569b7b2dea3c9"
+        },
+        "Data/ruRU/lichking-locale-ruRU.MPQ": {
+            "size": 12354378,
+            "hash": "89b1eba015927e321683a3867be1b8a76e593c438527eb42f4934d03484f1b04"
+        },
+        "Data/ruRU/lichking-speech-ruRU.MPQ": {
+            "size": 6772364,
+            "hash": "99afb35d5f092a19b760815bb0a21b8eb4b74d7e9361498dc13d4a65cc951b59"
+        },
+        "Data/ruRU/locale-ruRU.MPQ": {
+            "size": 190129109,
+            "hash": "dd587f0a673924d3320c30812d90476fc72a240e30056d0656c8c6c5e32dde1f"
+        },
+        "Data/ruRU/patch-ruRU-2.MPQ": {
+            "size": 270846455,
+            "hash": "25365c0319d186e7c0a09b8f0b63c1de765f4387bd3d532709fe163170c439e3"
+        },
+        "Data/ruRU/patch-ruRU-3.MPQ": {
+            "size": 109883630,
+            "hash": "792f87603eb77000a23c56f85c6250796e4f4032d0cad671a70c0fa300a2a0c3"
+        },
+        "Data/ruRU/patch-ruRU.MPQ": {
+            "size": 613796676,
+            "hash": "af99e71afc6eec6f6087a8a43948210a30c15283e71dc0c49ea0a6543bee69ff"
+        },
+        "Data/ruRU/patch-ruRU-8.MPQ": {
+            "size": 115949,
+            "hash": "3dcc6776a3a1995b833e216c1517522ed5787ec9389c4ebbe206b6d4f7df1ce2"
+        },
+        "Data/ruRU/speech-ruRU.MPQ": {
+            "size": 445791052,
+            "hash": "a76376c43b90633648269fe94e2b89454b00bc096f6acc11302492fd2102727e"
+        },
+        "Data/ruRU/termination.html": {
+            "size": 4882,
+            "hash": "2e2dd7c567c96bb0b3d2aa59ca2822cbc4dedfa110eaddbbbe9294076e987c04"
+        },
+        "Data/ruRU/tos.html": {
+            "size": 96614,
+            "hash": "a7bdc9a6faa1098ed3a844a1a79ed85d3dd0e2a34dcd10cd73e2da5305dc7f45"
+        },
+        "Data/common-2.MPQ": {
+            "size": 1756781838,
+            "hash": "dc0f8fe0607754de306eba74e9972ab6d91eb467076f34b26407ace3446f3f57"
+        },
+        "Data/common.MPQ": {
+            "size": 2856083241,
+            "hash": "63bac342322bbc1f88b3344b1a73e67a84ed527fbbe9c728e2528e8660346399"
+        },
+        "Data/expansion.MPQ": {
+            "size": 1899508519,
+            "hash": "edf04e46a28fee2727d29a61c2f866e4b3dce41468ebd41f34c115fae25a5abf"
+        },
+        "Data/lichking.MPQ": {
+            "size": 2553955175,
+            "hash": "7be69de4ae1328026cf1de021fde70666367c255573e283302089658cdd56cfb"
+        },
+        "Data/patch-2.MPQ": {
+            "size": 1401729059,
+            "hash": "c8b78bb75bcf5773e9ae99e11bdfcabc2a37aed3da947367d8af808d4d3c23c6"
+        },
+        "Data/patch-3.MPQ": {
+            "size": 605089137,
+            "hash": "56dbbfc8f9ce7182ca88538d75284e738020138a7ca4217d72d8168865510dd3"
+        },
+        "Data/patch.MPQ": {
+            "size": 4004713057,
+            "hash": "92b4a94a6c7a23c0b9fd88c47823e41792879a7ee1f70c2349a255153ca25d54"
+        },
+        "Battle.net.dll": {
+            "size": 15588224,
+            "hash": "88116951b04723cbb1073a1a0ff72dfdc40367f6649dffd08c602caa3ef1141f"
+        },
+        "DivxDecoder.dll": {
+            "size": 413696,
+            "hash": "ed34d37b575c91a56704218eb9f6abbefda8b7de0e2ed44c96191abd0f9915a5"
+        },
+        "Microsoft.VC80.CRT.manifest": {
+            "size": 1870,
+            "hash": "a50941352cb9d8f7ba6fbf7db5c8af95fb5ab76fc5d60cfd0984e558678908cc"
+        },
+        "Scan.dll": {
+            "size": 51972,
+            "hash": "22bafdab4e842aa675f089672a366a164c735bd63026eea8704778085200bf3f"
+        },
+        "Wow.exe": {
+            "size": 7704216,
+            "hash": "28287cd94e6ab2d6e68865f49314b456d2750dcb5d0b8ecca12eeddf72b7bf80"
+        },
+        "WowError.exe": {
+            "size": 350360,
+            "hash": "964eb9ed647c4614f3a3ecf977955750223ecbc8ff0a3bb4078e4dff779244f8"
+        },
+        "dbghelp.dll": {
+            "size": 1039728,
+            "hash": "3f9ad6986eb1f3a09eb0b5cad888ba656f9148b3339399076f2541b3bc59213c"
+        },
+        "ijl15.dll": {
+            "size": 372736,
+            "hash": "334aa12f7dee453d1c6cb1b661a3bb3494d3e4cc9c2ff3f9002064c78404e43a"
+        },
+        "msvcr80.dll": {
+            "size": 632656,
+            "hash": "9382aaed2db19cd75a70e38964f06c63f19f63c9dfb5a33b0c2d445bb41b6e46"
+        },
+        "unicows.dll": {
+            "size": 245408,
+            "hash": "22f23cc65698741184ec34f46e6f69717644e0b5aabf5d5bd015101f2d72e56e"
+        }
+    }
+}

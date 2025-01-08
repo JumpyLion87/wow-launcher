@@ -1,0 +1,7 @@
+module components
+WoWPanel 1.0 WoWPanel.qml
+InfoPanel 1.0 InfoPanel.qml
+WoWButton 1.0 WoWButton.qml
+Section 1.0 Section.qml
+Header 1.0 Header.qml
+ProgressSection 1.0 ProgressSection.qml 
